@@ -2,6 +2,7 @@
 
 //--------------------------------------------------------------
 void ofApp::setup(){
+    cout<<"hola mundo!"<<endl;
     algoSiempreSetup();
     algoSiempre = true;
     todoElRuido = false;
